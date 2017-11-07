@@ -1,0 +1,37 @@
+{
+ "acoes":[
+     "comprar","adquirir","ver","saber","alugar"
+ ],
+ "produtos":[
+     {
+         "nome": "notebook",
+         "preco": "1300",
+         "qtdVendidos": 0
+     },
+     {
+         "nome": "desktop",
+         "preco": "3300",
+         "qtdVendidos": 0
+     },
+     {
+         "nome": "carro",
+         "preco": "23000",
+         "qtdVendidos": 0
+     },
+     {
+         "nome": "moto",
+         "preco": "7300",
+         "qtdVendidos": 0
+     },
+     {
+         "nome": "livro",
+         "preco": "50",
+         "qtdVendidos": 0
+     },
+     {
+         "nome": "celular",
+         "preco": "800",
+         "qtdVendidos": 0
+     }
+ ]
+}

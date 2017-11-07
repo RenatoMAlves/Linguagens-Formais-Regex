@@ -1,0 +1,15 @@
+Oi, eu sou o Renato. Gostaria de saber sobre o notebook
+Eu sou o Renato e queria saber sobre o notebook
+Renato comprar notebook
+Oi, eu sou o Kennedy. Gostaria de saber sobre o celular
+Sou o Kennedy e queria saber sobre o celular
+Kennedy comprar celular
+Oi, eu sou o Ezequiel. Gostaria de saber sobre o celular
+Sou o Ezequiel e queria saber sobre o celular
+Ezequiel comprar celular
+Oi, eu sou o Jack. Gostaria de saber sobre o carro
+Sou o Jack e queria saber sobre o carro
+Jack comprar carro
+Oi, eu sou o Jack. Gostaria de saber sobre o moto
+Sou o Jack e queria saber sobre o moto
+Jack comprar moto
