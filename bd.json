@@ -5,33 +5,27 @@
  "produtos":[
      {
          "nome": "notebook",
-         "preco": "1300",
-         "qtdVendidos": 0
+         "preco": "1300"
      },
      {
          "nome": "desktop",
-         "preco": "3300",
-         "qtdVendidos": 0
+         "preco": "3300"
      },
      {
          "nome": "carro",
-         "preco": "23000",
-         "qtdVendidos": 0
+         "preco": "23000"
      },
      {
          "nome": "moto",
-         "preco": "7300",
-         "qtdVendidos": 0
+         "preco": "7300"
      },
      {
          "nome": "livro",
-         "preco": "50",
-         "qtdVendidos": 0
+         "preco": "50"
      },
      {
          "nome": "celular",
-         "preco": "800",
-         "qtdVendidos": 0
+         "preco": "800"
      }
  ]
 }
